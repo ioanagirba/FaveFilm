@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRatingAppBE.Domain", "MovieRatingAppBE.Domain\MovieRatingAppBE.Domain.csproj", "{A8B4F822-D375-4325-817A-20FFCAD6D660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRatingAppBE.Persistence", "MovieRatingAppBE.Persistence\MovieRatingAppBE.Persistence.csproj", "{6BE7F704-D8AC-4F2A-8B88-27DEB04EAAA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRatingAppBE.Application", "MovieRatingAppBE.Application\MovieRatingAppBE.Application.csproj", "{80D7D40B-03F3-4AB3-8940-FCD008233B80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRatingAppBE.GraphQL", "MovieRatingAppBE.GraphQL\MovieRatingAppBE.GraphQL.csproj", "{56FA04B0-C779-4D75-ABCB-2313FA3F4783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8B4F822-D375-4325-817A-20FFCAD6D660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B4F822-D375-4325-817A-20FFCAD6D660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B4F822-D375-4325-817A-20FFCAD6D660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B4F822-D375-4325-817A-20FFCAD6D660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE7F704-D8AC-4F2A-8B88-27DEB04EAAA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE7F704-D8AC-4F2A-8B88-27DEB04EAAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE7F704-D8AC-4F2A-8B88-27DEB04EAAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE7F704-D8AC-4F2A-8B88-27DEB04EAAA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D7D40B-03F3-4AB3-8940-FCD008233B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D7D40B-03F3-4AB3-8940-FCD008233B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D7D40B-03F3-4AB3-8940-FCD008233B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D7D40B-03F3-4AB3-8940-FCD008233B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FA04B0-C779-4D75-ABCB-2313FA3F4783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FA04B0-C779-4D75-ABCB-2313FA3F4783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FA04B0-C779-4D75-ABCB-2313FA3F4783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FA04B0-C779-4D75-ABCB-2313FA3F4783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
