@@ -1,0 +1,311 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.GraphQL/MovieRatingAppBE.GraphQL.csproj": {}
+  },
+  "projects": {
+    "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/MovieRatingAppBE.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/MovieRatingAppBE.Application.csproj",
+        "projectName": "MovieRatingAppBE.Application",
+        "projectPath": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/MovieRatingAppBE.Application.csproj",
+        "packagesPath": "/Users/ioana.girba/.nuget/packages/",
+        "outputPath": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ioana.girba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/MovieRatingAppBE.Domain.csproj": {
+                "projectPath": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/MovieRatingAppBE.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GraphQL.Server.Transports.AspNetCore": {
+              "target": "Package",
+              "version": "[7.7.1, )"
+            },
+            "GraphiQL": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "HotChocolate": {
+              "target": "Package",
+              "version": "[13.9.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/MovieRatingAppBE.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/MovieRatingAppBE.Domain.csproj",
+        "projectName": "MovieRatingAppBE.Domain",
+        "projectPath": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/MovieRatingAppBE.Domain.csproj",
+        "packagesPath": "/Users/ioana.girba/.nuget/packages/",
+        "outputPath": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ioana.girba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.GraphQL/MovieRatingAppBE.GraphQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.GraphQL/MovieRatingAppBE.GraphQL.csproj",
+        "projectName": "MovieRatingAppBE.GraphQL",
+        "projectPath": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.GraphQL/MovieRatingAppBE.GraphQL.csproj",
+        "packagesPath": "/Users/ioana.girba/.nuget/packages/",
+        "outputPath": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.GraphQL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ioana.girba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/MovieRatingAppBE.Application.csproj": {
+                "projectPath": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/MovieRatingAppBE.Application.csproj"
+              },
+              "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Persistence/MovieRatingAppBE.Persistence.csproj": {
+                "projectPath": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Persistence/MovieRatingAppBE.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Persistence/MovieRatingAppBE.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Persistence/MovieRatingAppBE.Persistence.csproj",
+        "projectName": "MovieRatingAppBE.Persistence",
+        "projectPath": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Persistence/MovieRatingAppBE.Persistence.csproj",
+        "packagesPath": "/Users/ioana.girba/.nuget/packages/",
+        "outputPath": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ioana.girba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/MovieRatingAppBE.Application.csproj": {
+                "projectPath": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/MovieRatingAppBE.Application.csproj"
+              },
+              "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/MovieRatingAppBE.Domain.csproj": {
+                "projectPath": "/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/MovieRatingAppBE.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
