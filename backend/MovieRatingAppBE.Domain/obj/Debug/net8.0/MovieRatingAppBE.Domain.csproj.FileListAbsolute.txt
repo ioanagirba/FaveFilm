@@ -1,0 +1,12 @@
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/bin/Debug/net8.0/MovieRatingAppBE.Domain.deps.json
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/bin/Debug/net8.0/MovieRatingAppBE.Domain.dll
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/bin/Debug/net8.0/MovieRatingAppBE.Domain.pdb
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/obj/Debug/net8.0/MovieRatingAppBE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/obj/Debug/net8.0/MovieRatingAppBE.Domain.AssemblyInfoInputs.cache
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/obj/Debug/net8.0/MovieRatingAppBE.Domain.AssemblyInfo.cs
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/obj/Debug/net8.0/MovieRatingAppBE.Domain.csproj.CoreCompileInputs.cache
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/obj/Debug/net8.0/MovieRatingAppBE.Domain.sourcelink.json
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/obj/Debug/net8.0/MovieRatingAppBE.Domain.dll
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/obj/Debug/net8.0/refint/MovieRatingAppBE.Domain.dll
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/obj/Debug/net8.0/MovieRatingAppBE.Domain.pdb
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Domain/obj/Debug/net8.0/ref/MovieRatingAppBE.Domain.dll
