@@ -1,0 +1,16 @@
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/bin/Debug/net8.0/MovieRatingAppBE.Application.deps.json
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/bin/Debug/net8.0/MovieRatingAppBE.Application.dll
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/bin/Debug/net8.0/MovieRatingAppBE.Application.pdb
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/bin/Debug/net8.0/MovieRatingAppBE.Domain.dll
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/bin/Debug/net8.0/MovieRatingAppBE.Domain.pdb
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/obj/Debug/net8.0/MovieRatingAppBE.Application.csproj.AssemblyReference.cache
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/obj/Debug/net8.0/MovieRatingAppBE.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/obj/Debug/net8.0/MovieRatingAppBE.Application.AssemblyInfoInputs.cache
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/obj/Debug/net8.0/MovieRatingAppBE.Application.AssemblyInfo.cs
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/obj/Debug/net8.0/MovieRatingAppBE.Application.csproj.CoreCompileInputs.cache
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/obj/Debug/net8.0/MovieRatingAppBE.Application.sourcelink.json
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/obj/Debug/net8.0/MovieRat.2E4D2B66.Up2Date
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/obj/Debug/net8.0/MovieRatingAppBE.Application.dll
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/obj/Debug/net8.0/refint/MovieRatingAppBE.Application.dll
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/obj/Debug/net8.0/MovieRatingAppBE.Application.pdb
+/Users/ioana.girba/Documents/repositories/TEAM PROJECT/fave-film-be/backend/MovieRatingAppBE/MovieRatingAppBE.Application/obj/Debug/net8.0/ref/MovieRatingAppBE.Application.dll
