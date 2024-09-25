@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0 solid transparent;
+  box-sizing: border-box;
+}
+
+:root body {
+  background-color: #161f2c;
+  color: #eaeaea;
+  font-family: "Fira Sans Extra Condensed";
+  font-size: 16px;
+  color: #eaeaea;
+  min-width: 350px;
+}
